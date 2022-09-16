@@ -93,6 +93,7 @@ The [Recommended sequence] section contains a recommended learning sequence that
 * [Aptos explorer]
 * [Aptos SDKs]
 * [Econia developer setup]
+* [move-to-ts]
 
 ## Recommended sequence
 
@@ -111,6 +112,7 @@ The [Recommended sequence] section contains a recommended learning sequence that
 
 Feel free to clone this repo and [check off items][markdown checkbox] as you go!
 
+1. - [x] `read` [This checklist's instructions](#checklist)
 1. - [ ] `read` [The Genesis of Aptos]
 1. - [ ] `read` [The Aptos Vision]
 1. - [ ] `do` [Move official tutorial]
@@ -172,6 +174,7 @@ To all of the open-source folks who came before us!
 [move]:                            https://github.com/move-language/move
 [move-cli]:                        https://github.com/move-language/move/tree/main/language/tools/move-cli
 [move-prover]:                     https://github.com/move-language/move/tree/main/language/move-prover
+[move-to-ts]:                      https://github.com/hippospace/move-to-ts
 [move-stdlib]:                     https://github.com/move-language/move/tree/main/language/move-stdlib
 [Move: An Auditor's Introduction]: https://osec.io/blog/tutorials/2022-09-06-move-introduction/
 [Move book]:                       https://move-language.github.io/move/introduction.html
