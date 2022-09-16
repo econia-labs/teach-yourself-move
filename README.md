@@ -62,6 +62,7 @@ The [Recommended sequence] section contains a recommended learning sequence that
 * [Aptos Labs' Block-STM Article]
 * [Econia documentation]!
 * [Move: An Auditor's Introduction]
+* [Move Fast & Break Things]
 
 ### Repositories
 
@@ -175,6 +176,7 @@ To all of the open-source folks who came before us!
 [Move: An Auditor's Introduction]: https://osec.io/blog/tutorials/2022-09-06-move-introduction/
 [Move book]:                       https://move-language.github.io/move/introduction.html
 [Move documentation examples]:     https://github.com/move-language/move/tree/main/language/documentation/examples
+[Move Fast & Break Things]:        https://blog.zellic.io/2022/09/06/move-fast-and-break-things-pt-1/
 [Move official tutorial]:          https://github.com/move-language/move/tree/main/language/documentation/tutorial
 [Move specification language]:     https://github.com/move-language/move/blob/main/language/move-prover/doc/user/spec-lang.md
 [Recommended sequence]:            #recommended-sequence
