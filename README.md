@@ -86,6 +86,7 @@ The [Recommended sequence] section contains a recommended learning sequence that
 * [Move official tutorial]
 * [Wayne Culbreth's tutorials]
 * [magnum6.eth tutorials] (same person, different website)
+* [Zellic's Move Prover tutorial]
 
 ### Tools
 
@@ -141,6 +142,7 @@ Feel free to clone this repo and [check off items][markdown checkbox] as you go!
 1. - [ ] `read` [Move book] (chapters 20-23)
 1. - [ ] `do` [Wayne Culbreth's Episode 4] tutorial
 1. - [ ] `read` [Move book] (chapters 24-27)
+1. - [ ] `do` [Zellic's Move Prover tutorial]
 1. - [ ] `do` the [Econia developer setup]!
 1. - [ ] `explore` the [econia][Econia] repository!
 1. - [ ] `explore` the [Econia documentation]!
@@ -200,3 +202,4 @@ To all of the open-source folks who came before us!
 [Your first transaction]:          https://aptos.dev/tutorials/your-first-transaction
 [Your first Move module]:          https://aptos.dev/tutorials/first-move-module
 [Your first NFT]:                  https://aptos.dev/tutorials/your-first-nft/
+[Zellic's Move Prover tutorial]:   https://github.com/zellic/move-prover-examples
