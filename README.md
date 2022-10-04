@@ -63,6 +63,7 @@ The [Recommended sequence] section contains a recommended learning sequence that
 * [Econia documentation]!
 * [Move: An Auditor's Introduction]
 * [Move Fast & Break Things]
+* [BCS Specification]
 
 ### Repositories
 
@@ -166,6 +167,7 @@ To all of the open-source folks who came before us!
 [Aptos official tutorials]:        https://aptos.dev/tutorials/aptos-quickstarts
 [Aptos SDKs]:                      https://aptos.dev/sdks/aptos-sdk-overview
 [Awesome Move]:                    https://github.com/MystenLabs/awesome-move
+[BCS Specification]:               https://github.com/diem/bcs
 [Block-STM paper]:                 https://arxiv.org/pdf/2203.06871.pdf
 [Econia]:                          https://github.com/econia-labs/econia
 [Econia documentation]:            https://econia.dev
