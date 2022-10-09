@@ -97,6 +97,7 @@ The [Recommended sequence] section contains a recommended learning sequence that
 * [Econia developer setup]
 * [move-to-ts]
 * [VS Code Move syntax extension]
+* [VS Code Move analyzer extension]
 
 ## Recommended sequence
 
@@ -187,7 +188,6 @@ To all of the open-source folks who came before us!
 [Move Fast & Break Things]:        https://blog.zellic.io/2022/09/06/move-fast-and-break-things-pt-1/
 [Move official tutorial]:          https://github.com/move-language/move/tree/main/language/documentation/tutorial
 [Move specification language]:     https://github.com/move-language/move/blob/main/language/move-prover/doc/user/spec-lang.md
-[VS Code Move syntax extension]:   https://marketplace.visualstudio.com/items?itemName=damirka.move-syntax
 [Recommended sequence]:            #recommended-sequence
 [Resources]:                       #resources
 [Transactions and states]:         https://aptos.dev/concepts/basics-txns-states
@@ -201,6 +201,8 @@ To all of the open-source folks who came before us!
 [magnum6.eth create things]:       https://mirror.xyz/magnum6.eth/kgZUk_kXg81AYQs5N5RygpjoK0OqAiH7TWRikznLcjg
 [The Aptos Vision]:                https://medium.com/aptoslabs/the-aptos-vision-1028ac56676e
 [The Genesis of Aptos]:            https://medium.com/aptoslabs/the-genesis-of-aptos-ff98d86e9445
+[VS Code Move analyzer extension]: https://marketplace.visualstudio.com/items?itemName=move.move-analyzer
+[VS Code Move syntax extension]:   https://marketplace.visualstudio.com/items?itemName=damirka.move-syntax
 [Your first coin]:                 https://aptos.dev/tutorials/your-first-coin
 [Your first dApp]:                 https://aptos.dev/tutorials/your-first-dapp/
 [Your first transaction]:          https://aptos.dev/tutorials/your-first-transaction
