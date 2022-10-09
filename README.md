@@ -96,6 +96,7 @@ The [Recommended sequence] section contains a recommended learning sequence that
 * [Aptos SDKs]
 * [Econia developer setup]
 * [move-to-ts]
+* [VS Code Move syntax extension]
 
 ## Recommended sequence
 
@@ -186,6 +187,7 @@ To all of the open-source folks who came before us!
 [Move Fast & Break Things]:        https://blog.zellic.io/2022/09/06/move-fast-and-break-things-pt-1/
 [Move official tutorial]:          https://github.com/move-language/move/tree/main/language/documentation/tutorial
 [Move specification language]:     https://github.com/move-language/move/blob/main/language/move-prover/doc/user/spec-lang.md
+[VS Code Move syntax extension]:   https://marketplace.visualstudio.com/items?itemName=damirka.move-syntax
 [Recommended sequence]:            #recommended-sequence
 [Resources]:                       #resources
 [Transactions and states]:         https://aptos.dev/concepts/basics-txns-states
