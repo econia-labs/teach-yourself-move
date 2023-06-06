@@ -86,6 +86,7 @@ The [Recommended sequence] section contains a recommended learning sequence that
 
 ### Tutorials
 
+- [Econia workshop, Amsterdam hackathon 2023]
 - [Aptos official tutorials]
 - [Move official tutorial]
 - [Wayne Culbreth's tutorials]
@@ -177,6 +178,7 @@ To all of the open-source folks who came before us!
 [econia]: https://github.com/econia-labs/econia
 [econia developer setup]: https://github.com/econia-labs/econia#developer-setup
 [econia documentation]: https://econia.dev
+[econia workshop, amsterdam hackathon 2023]: https://github.com/econia-labs/amsterdam-2023-demo
 [expanding the aptos community]: https://medium.com/aptoslabs/expanding-the-aptos-community-38c5b18a84b7
 [getting started]: https://aptos.dev/guides/getting-started
 [magnum6.eth baseline]: https://mirror.xyz/magnum6.eth/V1_HOcpDkjvpRuCY_UacOGVkBJjTS_zRDBkGGIUUoUA
