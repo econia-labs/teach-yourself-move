@@ -150,6 +150,7 @@ Feel free to clone this repo and [check off items][markdown checkbox] as you go!
 1. - [ ] `do` [Wayne Culbreth's Episode 4] tutorial
 1. - [ ] `read` [Move book] (chapters 24-27)
 1. - [ ] `do` [Zellic's Move Prover tutorial]
+1. - [ ] `do` the [Econia Workshop, Amsterdam Hackathon 2023]
 1. - [ ] `do` the [Econia developer setup]!
 1. - [ ] `explore` the [econia] repository!
 1. - [ ] `explore` the [Econia documentation]!
@@ -176,7 +177,7 @@ To all of the open-source folks who came before us!
 [bcs specification]: https://github.com/diem/bcs
 [block-stm paper]: https://arxiv.org/pdf/2203.06871.pdf
 [econia]: https://github.com/econia-labs/econia
-[econia developer setup]: https://github.com/econia-labs/econia#developer-setup
+[econia developer setup]: https://github.com/econia-labs/econia#developing-econia
 [econia documentation]: https://econia.dev
 [econia workshop, amsterdam hackathon 2023]: https://github.com/econia-labs/amsterdam-2023-demo
 [expanding the aptos community]: https://medium.com/aptoslabs/expanding-the-aptos-community-38c5b18a84b7
