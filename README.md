@@ -161,7 +161,7 @@ Feel free to clone this repo and [check off items][markdown checkbox] as you go!
 
 To all of the open-source folks who came before us!
 
-[accounts]: https://aptos.dev/concepts/basics-accounts
+[accounts]: https://aptos.dev/concepts/accounts/
 [aptos cli]: https://aptos.dev/cli-tools/aptos-cli-tool/aptos-cli-index/
 [aptos documentation]: https://aptos.dev/
 [aptos explorer]: https://aptos-explorer.netlify.app/
@@ -201,7 +201,7 @@ To all of the open-source folks who came before us!
 [resources]: #resources
 [the aptos vision]: https://medium.com/aptoslabs/the-aptos-vision-1028ac56676e
 [the genesis of aptos]: https://medium.com/aptoslabs/the-genesis-of-aptos-ff98d86e9445
-[transactions and states]: https://aptos.dev/concepts/basics-txns-states
+[transactions and states]: https://aptos.dev/concepts/txns-states/
 [unofficial move book]: https://move-book.com/
 [vs code move analyzer extension]: https://marketplace.visualstudio.com/items?itemName=move.move-analyzer
 [vs code move syntax extension]: https://marketplace.visualstudio.com/items?itemName=damirka.move-syntax
